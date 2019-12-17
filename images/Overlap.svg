@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="824px" height="548px" viewBox="0 0 824 548" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>pain points</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M412.5,102.252299 C462.795437,142.570627 495,204.524424 495,274 C495,343.475576 462.795437,405.429373 412.5,445.747701 C362.204563,405.429373 330,343.475576 330,274 C330,204.524424 362.204563,142.570627 412.5,102.252299 Z" id="path-1"></path>
+        <filter x="-18.2%" y="-9.6%" width="136.4%" height="119.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="5.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.958298935   0 0 0 0 0.956044823   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="pain-points" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="824" height="548"></rect>
+        <circle id="Oval" fill-opacity="0.1" fill="#1F00BB" cx="275" cy="274" r="220"></circle>
+        <circle id="Oval" fill-opacity="0.5" fill="#534BBD" cx="550" cy="274" r="220"></circle>
+        <g id="Combined-Shape">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill-opacity="0.39379529" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <text id="Trying-to-understand" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="165" y="136">Trying to understand </tspan>
+            <tspan x="165" y="156">what happened</tspan>
+        </text>
+        <text id="Locating-each-other" font-family="OpenSans-SemiBold, Open Sans" font-size="15" font-weight="500" fill="#000000">
+            <tspan x="381.818848" y="182">Locating </tspan>
+            <tspan x="373.560791" y="202">each other</tspan>
+        </text>
+        <text id="Applying-medical-car" font-family="OpenSans-SemiBold, Open Sans" font-size="15" font-weight="500" fill="#000000">
+            <tspan x="350.701904" y="263">Applying medical</tspan>
+            <tspan x="367.496338" y="283"> care quickly</tspan>
+        </text>
+        <text id="Inefficient-document" font-family="OpenSans-SemiBold, Open Sans" font-size="15" font-weight="500" fill="#000000">
+            <tspan x="375.758057" y="342">Inefficient </tspan>
+            <tspan x="356.8396" y="362">documentation</tspan>
+        </text>
+        <text id="Reaching-the-situati" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="553" y="131">Reaching the </tspan>
+            <tspan x="553" y="151">situation quickly</tspan>
+        </text>
+        <text id="Condition-of-patient" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="585" y="214">Condition of patient </tspan>
+            <tspan x="585" y="234">unclear prior to arrival</tspan>
+        </text>
+        <text id="Lengthy-documentatio" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="568" y="317">Lengthy documentation</tspan>
+        </text>
+        <text id="Time-lapse-between-r" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="519" y="394">Time lapse between </tspan>
+            <tspan x="519" y="414">receiving call &amp; getting </tspan>
+            <tspan x="519" y="434">more contextual </tspan>
+            <tspan x="519" y="454">information</tspan>
+        </text>
+        <text id="Waiting-for-EMS-to-a" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="93" y="234">Waiting for EMS to arrive</tspan>
+        </text>
+        <text id="Uncertainty-as-to-wh" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="93" y="325">Uncertainty as to whether EMT </tspan>
+            <tspan x="93" y="345">will be able to find location</tspan>
+        </text>
+        <text id="Cannot-leave-patient" font-family="OpenSans-Regular, Open Sans" font-size="15" font-weight="normal" fill="#000000">
+            <tspan x="156" y="429">Cannot leave patient alone</tspan>
+        </text>
+        <text id="RAs" font-family="Kalam-Bold, Kalam" font-size="34" font-weight="bold" fill="#000000">
+            <tspan x="64" y="73">RAs</tspan>
+        </text>
+        <text id="EMTs" font-family="Kalam-Bold, Kalam" font-size="34" font-weight="bold" fill="#000000">
+            <tspan x="706" y="73">EMTs</tspan>
+        </text>
+        <path d="M64,83.0605574 C142.995529,72.1324804 84.4486249,83.0605574 105.417209,83.0605574 C108.956603,83.0605574 114.4842,81.6520456 122,78.8350221" id="Path-5" stroke="#5957BC" stroke-width="3" stroke-linecap="round"></path>
+        <path d="M710,84 C747.632399,78.7463298 773.566906,78.2425095 775.861121,78.7799849 C779.462194,79.6236236 750.776519,84 766.455809,84 C770.788516,84 778.346607,82.259995 789.130082,78.7799849" id="Path-5" stroke="#5957BC" stroke-width="3" stroke-linecap="round"></path>
+    </g>
+</svg>

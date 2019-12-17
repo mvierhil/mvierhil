@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5760px" height="2592px" viewBox="0 0 5760 2592" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Final_AEO_Blueprint</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#417505" stop-opacity="0.35" offset="0%"></stop>
+            <stop stop-color="#F5E023" stop-opacity="0.35" offset="37.8853463%"></stop>
+            <stop stop-color="#F5A623" stop-opacity="0.35" offset="67.9133235%"></stop>
+            <stop stop-color="#D0021B" stop-opacity="0.350551792" offset="99.963049%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0.0984484266" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#417505" stop-opacity="0.35" offset="0%"></stop>
+            <stop stop-color="#F5E023" stop-opacity="0.35" offset="37.8853463%"></stop>
+            <stop stop-color="#F5A623" stop-opacity="0.35" offset="67.9133235%"></stop>
+            <stop stop-color="#D0021B" stop-opacity="0.350551792" offset="99.963049%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0.0984484266" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="238.5" y="1163" width="433" height="37"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="433" height="37" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="1004.5" y="1163" width="243" height="37"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="243" height="37" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="1300.5" y="1163" width="973" height="37"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="973" height="37" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="2324.5" y="1163" width="482" height="37"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="482" height="37" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="3296" y="1201" width="231" height="37"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="231" height="37" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="3577" y="1200" width="1008" height="37"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1008" height="37" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="4658" y="1199" width="412" height="37"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="412" height="37" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+    </defs>
+    <g id="Final_AEO_Blueprint" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="5760" height="2592"></rect>
+        <g id="Group-2" transform="translate(183.000000, 118.000000)">
+            <path d="M197.5,1133.15875 L197.5,633 L314,662.90875 C390.338449,696.029668 453.5,902.214367 490.5,927.90875 C516.85765,946.21263 587.872289,1063.42271 721,1041.00348 C745.120837,1036.94143 825.925522,1010.90875 884,1010.90875 C942.074478,1010.90875 1082.5,1042.44937 1104.5,1048.90875 C1191.61231,1074.48564 1352.76975,1025.19802 1406,1017.79743 C1459.23025,1010.39684 1495.77055,963.99317 1544,943.90875 C1568.82935,933.568946 1920,849 1958,834 C1996,819 2014.58685,796.704449 2087,796.704449 C2199.90698,796.704449 2216.27222,820.90875 2259,833.90875 C2295.88872,845.132207 2351.96921,904.206647 2505,912.90875 C2658.03079,921.610854 2646.9102,662.930828 2745.5,664.90875 C2749.00138,664.978995 2782.50138,652.009412 2846,626 L2847,1133.90875" id="Path" fill="url(#linearGradient-1)" transform="translate(1522.250000, 879.954375) scale(-1, 1) translate(-1522.250000, -879.954375) "></path>
+            <path d="M3284,1169.15875 L3287.75,675 C3368.91397,719.04512 3426.97212,748.684456 3461.92445,763.91801 C3584.64283,817.403345 3670.01615,846.767921 3711,868.90875 C3814.66991,924.914658 3847.47025,1066.09125 3923,1076 C3978.3272,1083.25838 4121.77055,995.084419 4170,975 C4194.82935,964.660196 4293.04001,968.827174 4340,948 C4410,916.954375 4449.02928,666.70763 4545,659.5 C4632.01046,652.965308 4667.5,900 4776,914.633602 C4835.32144,922.634398 4888.28867,669 4974.5,659.5 C5060.71133,650 5131.03079,956 5251,956 C5281.49596,956 5327.16263,957.333333 5388,960 L5388,1169.15875" id="Path" fill="url(#linearGradient-2)" transform="translate(4336.000000, 914.221020) scale(-1, 1) translate(-4336.000000, -914.221020) "></path>
+            <path d="M197.5,1133.90875 L2847,1135.11708" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square"></path>
+            <path d="M197.5,1097.40875 L197.5,1133.90875" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square"></path>
+            <text id="Low" font-family="AvenirNext-Bold, Avenir Next" font-size="30" font-weight="bold" fill="#5E5E5E">
+                <tspan x="113.5" y="1117">Low</tspan>
+            </text>
+            <text id="High" font-family="AvenirNext-Bold, Avenir Next" font-size="30" font-weight="bold" fill="#5E5E5E">
+                <tspan x="108.5" y="656">High</tspan>
+            </text>
+            <text id="EMOTIONS" transform="translate(66.000000, 871.000000) rotate(-90.000000) translate(-66.000000, -871.000000) " font-family="AvenirNext-DemiBold, Avenir Next" font-size="40" font-weight="500" letter-spacing="10.47619" fill="#5E5E5E">
+                <tspan x="-84" y="883.5">EMOTIONS</tspan>
+            </text>
+            <text id="PRE-SHOPPING" font-family="OpenSans-Bold, Open Sans" font-size="41" font-weight="bold" letter-spacing="9.14000034" fill="#070707">
+                <tspan x="365.5" y="487">PRE-SHOPPIN</tspan>
+                <tspan x="739.987269" y="487">G</tspan>
+            </text>
+            <text id="DATA" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" letter-spacing="4.53999996" fill="#232323">
+                <tspan x="143.5" y="1694">DAT</tspan>
+                <tspan x="197.12" y="1694">A</tspan>
+            </text>
+            <text id="ONLINE-SHOPPING" font-family="AvenirNext-Bold, Avenir Next" font-size="41" font-weight="bold" letter-spacing="9.14000034" fill="#070707">
+                <tspan x="1644.5" y="487">ONLINE SHOPPIN</tspan>
+                <tspan x="2130.226" y="487">G</tspan>
+            </text>
+            <text id="IN-STORE-SHOPPING" font-family="AvenirNext-Bold, Avenir Next" font-size="41" font-weight="bold" letter-spacing="9.14000034" fill="#070707">
+                <tspan x="4053" y="520">IN STORE SHOPPIN</tspan>
+                <tspan x="4586.77201" y="520">G</tspan>
+            </text>
+            <text id="Traffic-Source-Data" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" fill="#232323">
+                <tspan x="1048.5" y="1187">Traffic Source Data</tspan>
+            </text>
+            <text id="Purchase-History-Dat" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#232323">
+                <tspan x="2468.5" y="1187">Purchase History Dat</tspan>
+                <tspan x="2650.57" y="1187" letter-spacing="2.6099999">a</tspan>
+            </text>
+            <text id="Browsing-History-Dat" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" fill="#232323">
+                <tspan x="1694.5" y="1187">Browsing History Data</tspan>
+            </text>
+            <g id="Group-3" transform="translate(3328.000000, 1205.000000)" fill="#232323" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold">
+                <text id="Traffic-Source-Data">
+                    <tspan x="0" y="20">Traffic Source Dat</tspan>
+                    <tspan x="155.142" y="20" letter-spacing="2.6099999">a</tspan>
+                </text>
+                <text id="Purchase-History-Dat">
+                    <tspan x="1449" y="18">Purchase History Dat</tspan>
+                    <tspan x="1631.07" y="18" letter-spacing="2.6099999">a</tspan>
+                </text>
+                <text id="Browsing-History-Dat">
+                    <tspan x="653" y="18">Browsing History Dat</tspan>
+                    <tspan x="838.706" y="18" letter-spacing="2.6099999">a</tspan>
+                </text>
+            </g>
+            <text id="User-scrolls-through" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="237.5" y="1295">User scrolls through </tspan>
+                <tspan x="237.5" y="1320">social media</tspan>
+            </text>
+            <text id="User-searches-intern" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="447.5" y="1375">User searches </tspan>
+                <tspan x="447.5" y="1400">internet for similar </tspan>
+                <tspan x="447.5" y="1425">items</tspan>
+            </text>
+            <text id="User-screenshots-ite" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="237.5" y="1374">User screenshots </tspan>
+                <tspan x="237.5" y="1399">items that they like</tspan>
+            </text>
+            <text id="User-saves-to-collec" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="447.5" y="1479.09125">User saves to </tspan>
+                <tspan x="447.5" y="1504.09125">collection </tspan>
+                <tspan x="447.5" y="1529.09125">(Instagram/Pinterest)</tspan>
+            </text>
+            <text id="User-does-nothing;-f" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="447.5" y="1583.09125">User does nothing; </tspan>
+                <tspan x="447.5" y="1608.09125">forgets about </tspan>
+                <tspan x="447.5" y="1633.09125">screenshot in </tspan>
+                <tspan x="447.5" y="1658.09125">camera roll </tspan>
+            </text>
+            <text id="User-sends-images-to" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="447.5" y="1295">User sends images </tspan>
+                <tspan x="447.5" y="1320">to friends </tspan>
+            </text>
+            <text id="INSPIRATION" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="238.5" y="1251">INSPIRATION</tspan>
+            </text>
+            <text id="CONSIDERATION" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="448.5" y="1251">CONSIDERATION</tspan>
+            </text>
+            <text id="Social-Media-Browsin" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" fill="#232323">
+                <tspan x="325.5" y="1187">Social Media Browsing Histor</tspan>
+                <tspan x="569.76" y="1187" letter-spacing="4.714286">y</tspan>
+            </text>
+            <text id="User-makes-a-plan-wi" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="713.5" y="1400">User makes a plan </tspan>
+                <tspan x="713.5" y="1425">with friends to go to </tspan>
+                <tspan x="713.5" y="1450">the mall or store</tspan>
+            </text>
+            <text id="User-visits-store-we" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="713.5" y="1504.09125">User visits store </tspan>
+                <tspan x="713.5" y="1529.09125">website </tspan>
+            </text>
+            <text id="User-and-friends-coo" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="713.5" y="1295">User and friends </tspan>
+                <tspan x="713.5" y="1320">coordinate online </tspan>
+                <tspan x="713.5" y="1345">shopping </tspan>
+            </text>
+            <text id="STRATEGIZING" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="714.5" y="1251">STRATEGIZING</tspan>
+            </text>
+            <text id="User-chooses-brand-b" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1003.5" y="1295">User chooses brand </tspan>
+                <tspan x="1003.5" y="1320">based on images, </tspan>
+                <tspan x="1003.5" y="1345">styles, loyalty, </tspan>
+                <tspan x="1003.5" y="1370">preferences, &amp; sales</tspan>
+            </text>
+            <text id="Selected-brands" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1013.5" y="1724">Selected brands</tspan>
+            </text>
+            <text id="Preferred-styles" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1013.5" y="1765">Preferred styles</tspan>
+            </text>
+            <text id="Items-screenshotted" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1300.5" y="1724">Items </tspan>
+                <tspan x="1300.5" y="1749">screenshotted</tspan>
+            </text>
+            <text id="Items-that-initially" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1499.5" y="1724">Items that initially </tspan>
+                <tspan x="1499.5" y="1749">catch the </tspan>
+                <tspan x="1499.5" y="1774">customer’s eye</tspan>
+            </text>
+            <text id="Gathers-opinions-fro" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1747.5" y="2186">Gathers opinions </tspan>
+                <tspan x="1747.5" y="2211">from family and </tspan>
+                <tspan x="1747.5" y="2236">friends</tspan>
+            </text>
+            <text id="Posts-questions-abou" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1937.5" y="2186">Posts questions </tspan>
+                <tspan x="1937.5" y="2211">about items</tspan>
+            </text>
+            <text id="Reviews-pictures-fro" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1938.5" y="2270">Reviews pictures </tspan>
+                <tspan x="1938.5" y="2295">from other people </tspan>
+            </text>
+            <text id="Coordinates-group-pu" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2416.5" y="2186">Coordinates group </tspan>
+                <tspan x="2416.5" y="2211">purchase</tspan>
+            </text>
+            <text id="Resells-items-to-fri" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2416.5" y="2271">Resells items to </tspan>
+                <tspan x="2416.5" y="2296">friends</tspan>
+            </text>
+            <text id="Saved-favorites" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="1724">Saved favorites</tspan>
+            </text>
+            <text id="Messages-from-family" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="1766">Messages from </tspan>
+                <tspan x="1746.5" y="1791">family &amp; friends</tspan>
+            </text>
+            <text id="Styling-and-outfit-c" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1957.5" y="1724">Styling and outfit </tspan>
+                <tspan x="1957.5" y="1749">creation</tspan>
+            </text>
+            <text id="Saved-sizing-prefere" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2149.5" y="1724">Saved sizing </tspan>
+                <tspan x="2149.5" y="1749">preferences</tspan>
+            </text>
+            <text id="Uses-online-resource" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2149.5" y="1792">Uses online </tspan>
+                <tspan x="2149.5" y="1817">resources to </tspan>
+                <tspan x="2149.5" y="1842">determine best </tspan>
+                <tspan x="2149.5" y="1867">sizes</tspan>
+            </text>
+            <text id="Group-purchasing-dec" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2556.5" y="1724">Group purchasing </tspan>
+                <tspan x="2556.5" y="1749">decisions</tspan>
+            </text>
+            <text id="Route-selection-for" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3296" y="1785">Route selection for </tspan>
+                <tspan x="3296" y="1810">physical shopping</tspan>
+            </text>
+            <text id="Saves-interested-ite" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4012" y="2186">Saves interested </tspan>
+                <tspan x="4012" y="2211">items and sends </tspan>
+                <tspan x="4012" y="2236">pictures to family/</tspan>
+                <tspan x="4012" y="2261">friends</tspan>
+            </text>
+            <text id="Tries-on-clothes-and" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4220" y="2186">Tries on clothes and </tspan>
+                <tspan x="4220" y="2211">get feedback </tspan>
+                <tspan x="4220" y="2236">in-person or sends </tspan>
+                <tspan x="4220" y="2261">pictures</tspan>
+            </text>
+            <text id="Inquires-about-items" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4431" y="2186">Inquires about </tspan>
+                <tspan x="4431" y="2211">items with </tspan>
+                <tspan x="4431" y="2236">associates</tspan>
+            </text>
+            <text id="Inquires-about-promo" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4647" y="2186">Inquires about </tspan>
+                <tspan x="4647" y="2211">promotions with </tspan>
+                <tspan x="4647" y="2236">associates</tspan>
+            </text>
+            <text id="Final-accepted-items" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4860" y="1785">Final accepted </tspan>
+                <tspan x="4860" y="1810">items vs. </tspan>
+                <tspan x="4860" y="1835">abandoned items </tspan>
+                <tspan x="4860" y="1860">at counter</tspan>
+            </text>
+            <text id="Personal-Style-Creat" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="3791" y="1785">Personal Style </tspan>
+                <tspan x="3791" y="1810">Creation</tspan>
+            </text>
+            <text id="Feedback-from-Friend" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="3791" y="1856">Feedback from </tspan>
+                <tspan x="3791" y="1881">Friends/Parents</tspan>
+            </text>
+            <text id="Gets-opinions-from-f" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3788" y="2186">Gets opinions from </tspan>
+                <tspan x="3788" y="2211">friends/parents</tspan>
+            </text>
+            <text id="Accepted/Rejected-It" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="3791" y="1927">Accepted/</tspan>
+                <tspan x="3791" y="1952">Rejected Items</tspan>
+            </text>
+            <text id="Asks-associates-for" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3586" y="2186">Asks associates for </tspan>
+                <tspan x="3586" y="2211">information</tspan>
+            </text>
+            <text id="Gets-feedback-from-p" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3586" y="2259">Gets feedback from </tspan>
+                <tspan x="3586" y="2284">parents</tspan>
+            </text>
+            <text id="Interacts-with-assoc" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4863" y="2186">Interacts with </tspan>
+                <tspan x="4863" y="2211">associates to </tspan>
+                <tspan x="4863" y="2236">purchase items</tspan>
+            </text>
+            <text id="Final-decisions-to-k" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4863" y="2278">Final decisions to </tspan>
+                <tspan x="4863" y="2303">keep or eliminate </tspan>
+                <tspan x="4863" y="2328">items</tspan>
+            </text>
+            <text id="Item-Inquires" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3580" y="1785">Item Inquires </tspan>
+            </text>
+            <text id="Smartphones" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3296" y="2077">Smartphones</tspan>
+            </text>
+            <text id="Smartphones" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3791" y="2077">Smartphones</tspan>
+            </text>
+            <text id="Smartphones" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4021" y="2077">Smartphones</tspan>
+            </text>
+            <text id="Smartphones" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4439" y="2077">Smartphones</tspan>
+            </text>
+            <text id="Smartphones" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4656" y="2077">Smartphones</tspan>
+            </text>
+            <text id="Calculator" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="4656" y="2119">Calculator</tspan>
+            </text>
+            <text id="Recommendations" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="3580" y="1831">Recommendation</tspan>
+                <tspan x="3580" y="1856">s</tspan>
+            </text>
+            <text id="Collected-Items" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4021" y="1785">Collected Items</tspan>
+            </text>
+            <text id="Styling-Suggestions" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4232" y="1785">Styling </tspan>
+                <tspan x="4232" y="1810">Suggestions</tspan>
+            </text>
+            <text id="Styling-Suggestions" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4431" y="1785">Styling </tspan>
+                <tspan x="4431" y="1810">Suggestions</tspan>
+            </text>
+            <text id="Collection-Groups" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4021" y="1831">Collection Groups</tspan>
+            </text>
+            <text id="Try-on-Decisions" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="3580" y="1877">Try-on Decisions</tspan>
+            </text>
+            <text id="Budget-Preferences" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2556.5" y="1822">Budget Preferences</tspan>
+            </text>
+            <text id="Comparison-decisions" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2340.5" y="1724">Comparison </tspan>
+                <tspan x="2340.5" y="1749">decisions</tspan>
+            </text>
+            <text id="Size-Selections" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2340.5" y="1803">Size Selections</tspan>
+            </text>
+            <text id="Shared-items" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="1833">Shared items</tspan>
+            </text>
+            <text id="Approved/rejected-it" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="1875">Approved/rejected </tspan>
+                <tspan x="1746.5" y="1900">items</tspan>
+            </text>
+            <text id="Style/Outfit-Decisio" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4656" y="1785">Style/Outfit </tspan>
+                <tspan x="4656" y="1810">Decisions</tspan>
+            </text>
+            <text id="Accepted-vs.-Rejecte" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4656" y="1856">Accepted vs. </tspan>
+                <tspan x="4656" y="1881">Rejected Item </tspan>
+                <tspan x="4656" y="1906">Decisions</tspan>
+            </text>
+            <text id="Promotion-based-deci" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4656" y="1992">Promotion based </tspan>
+                <tspan x="4656" y="2017">decision making</tspan>
+            </text>
+            <text id="Budget-Decisions" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="4656" y="1946">Budget Decisions</tspan>
+            </text>
+            <text id="Styling-recommendati" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="1942">Styling </tspan>
+                <tspan x="1746.5" y="1967">recommendations</tspan>
+            </text>
+            <text id="Filters-&amp;-preference" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1499.5" y="1812">Filters &amp; </tspan>
+                <tspan x="1499.5" y="1837">preferences</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1013.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Smartphone" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1013.5" y="2079">Smartphone</tspan>
+            </text>
+            <text id="Tablet" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1013.5" y="2122">Tablet</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="728.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Smartphone" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="728.5" y="2079">Smartphone</tspan>
+            </text>
+            <text id="Tablet" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="728.5" y="2122">Tablet</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="457.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Smartphone" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="457.5" y="2079">Smartphone</tspan>
+            </text>
+            <text id="Tablet" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="457.5" y="2122">Tablet</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="252.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Smartphone" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="252.5" y="2079">Smartphone</tspan>
+            </text>
+            <text id="Tablet" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="252.5" y="2122">Tablet</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1289.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Website" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1289.5" y="2079">Website</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1499.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Website" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1499.5" y="2079">Website</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Website" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="2079">Website</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1953.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Website" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1953.5" y="2079">Website</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2149.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Website" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2149.5" y="2079">Website</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2329.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Website" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2329.5" y="2079">Website</tspan>
+            </text>
+            <text id="Laptop" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2556.5" y="2036">Laptop</tspan>
+            </text>
+            <text id="Website" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2556.5" y="2079">Website</tspan>
+            </text>
+            <text id="BRAND-CHOOSING" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="1004.5" y="1251">BRAND CHOOSING</tspan>
+            </text>
+            <text id="User-decides-what-to" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1303.5" y="1424">User decides what </tspan>
+                <tspan x="1303.5" y="1449">to browse based on </tspan>
+                <tspan x="1303.5" y="1474">current wardrobe</tspan>
+            </text>
+            <text id="User-looks-for-promo" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1303.5" y="1528">User looks for </tspan>
+                <tspan x="1303.5" y="1553">promotions and </tspan>
+                <tspan x="1303.5" y="1578">deals</tspan>
+            </text>
+            <text id="User-scrolls-through" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1303.5" y="1295">User scrolls through </tspan>
+                <tspan x="1303.5" y="1320">multitude of </tspan>
+                <tspan x="1303.5" y="1345">options available </tspan>
+                <tspan x="1303.5" y="1370">online</tspan>
+            </text>
+            <text id="User-navigates-throu" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1499.5" y="1449">User navigates </tspan>
+                <tspan x="1499.5" y="1474">through filters &amp; </tspan>
+                <tspan x="1499.5" y="1499">personalized </tspan>
+                <tspan x="1499.5" y="1524">recommendations</tspan>
+            </text>
+            <text id="User-navigates-throu" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1499.5" y="1295">User navigates </tspan>
+                <tspan x="1499.5" y="1320">through options, </tspan>
+                <tspan x="1499.5" y="1345">tries to find items in </tspan>
+                <tspan x="1499.5" y="1370">line with personal </tspan>
+                <tspan x="1499.5" y="1395">style or need</tspan>
+            </text>
+            <text id="NAVIGATION-&amp;-BROWSIN" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="1302.5" y="1251">NAVIGATION &amp; BROWSING</tspan>
+            </text>
+            <text id="User-gathers-opinion" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="1474">User gathers </tspan>
+                <tspan x="1746.5" y="1499">opinions from </tspan>
+                <tspan x="1746.5" y="1524">family &amp; friends by </tspan>
+                <tspan x="1746.5" y="1549">sending them </tspan>
+                <tspan x="1746.5" y="1574">screenshots</tspan>
+            </text>
+            <text id="User-reads-through-r" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1953.5" y="1295">User reads through </tspan>
+                <tspan x="1953.5" y="1320">reviews of items; </tspan>
+                <tspan x="1953.5" y="1345">carefully inspects </tspan>
+                <tspan x="1953.5" y="1370">item photos to </tspan>
+                <tspan x="1953.5" y="1395">understand fit &amp; </tspan>
+                <tspan x="1953.5" y="1420">feel </tspan>
+            </text>
+            <text id="User-tries-to-compre" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2154.5" y="1295">User tries to </tspan>
+                <tspan x="2154.5" y="1320">comprehend </tspan>
+                <tspan x="2154.5" y="1345">measurement </tspan>
+                <tspan x="2154.5" y="1370">system </tspan>
+            </text>
+            <text id="User-decides-what-to" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1953.5" y="1474">User decides what </tspan>
+                <tspan x="1953.5" y="1499">to buy based on </tspan>
+                <tspan x="1953.5" y="1524">how to match with </tspan>
+                <tspan x="1953.5" y="1549">current wardrobe</tspan>
+            </text>
+            <text id="User-opens-several-t" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="1746.5" y="1295">User opens several </tspan>
+                <tspan x="1746.5" y="1320">tabs in internet </tspan>
+                <tspan x="1746.5" y="1345">browser, logs in to </tspan>
+                <tspan x="1746.5" y="1370">save items to </tspan>
+                <tspan x="1746.5" y="1395">favorites within </tspan>
+                <tspan x="1746.5" y="1420">account</tspan>
+            </text>
+            <text id="COMPARING-&amp;-ASSESSIN" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="1747.5" y="1251">COMPARING &amp; ASSESSING</tspan>
+            </text>
+            <text id="User-decides-what-to" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2324.5" y="1467">User decides what </tspan>
+                <tspan x="2324.5" y="1492">to buy based on </tspan>
+                <tspan x="2324.5" y="1517">current wardrobe </tspan>
+            </text>
+            <text id="User-adds-multiple-s" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2324.5" y="1288">User adds multiple </tspan>
+                <tspan x="2324.5" y="1313">sizes of desired </tspan>
+                <tspan x="2324.5" y="1338">items to cart, </tspan>
+                <tspan x="2324.5" y="1363">compares items to </tspan>
+                <tspan x="2324.5" y="1388">decide final </tspan>
+                <tspan x="2324.5" y="1413">purchase</tspan>
+            </text>
+            <text id="User-decides-final-p" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2554.5" y="1442">User decides final </tspan>
+                <tspan x="2554.5" y="1467">purchase by </tspan>
+                <tspan x="2554.5" y="1492">comparing the </tspan>
+                <tspan x="2554.5" y="1517">budget and the </tspan>
+                <tspan x="2554.5" y="1542">total price shown </tspan>
+            </text>
+            <text id="User-coordinates-wit" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="2554.5" y="1288">User coordinates </tspan>
+                <tspan x="2554.5" y="1313">with friends or </tspan>
+                <tspan x="2554.5" y="1338">family to reach </tspan>
+                <tspan x="2554.5" y="1363">promotion </tspan>
+                <tspan x="2554.5" y="1388">threshold </tspan>
+            </text>
+            <text id="STRATEGIZING-&amp;-DECIS" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="2325.5" y="1244">STRATEGIZING &amp; DECISION MAKING</tspan>
+            </text>
+            <text id="BRAND-CHOOSING" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="3296" y="1280">BRAND CHOOSING</tspan>
+            </text>
+            <text id="NAVIGATION-&amp;-BROWSIN" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="3577" y="1280">NAVIGATION &amp; BROWSING</tspan>
+            </text>
+            <text id="COMPARING-&amp;-ASSESSIN" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="4019" y="1280">COMPARING &amp; ASSESSING</tspan>
+            </text>
+            <text id="STRATEGIZING-&amp;-DECIS" font-family="AvenirNext-Bold, Avenir Next" font-size="21" font-weight="bold" letter-spacing="3.395" fill="#000000">
+                <tspan x="4652" y="1280">STRATEGIZING &amp; DECISION MAKING</tspan>
+            </text>
+            <g id="Group" transform="translate(3296.000000, 1306.000000)" fill="#232323" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal">
+                <text id="Similar-to-online-sh">
+                    <tspan x="0" y="18">Similar to online </tspan>
+                    <tspan x="0" y="43">shopping but with </tspan>
+                    <tspan x="0" y="68">more careful </tspan>
+                    <tspan x="0" y="93">consideration of </tspan>
+                    <tspan x="0" y="118">physical location</tspan>
+                </text>
+                <text id="Users’-parents-pick">
+                    <tspan x="279" y="147">Users’ parents pick </tspan>
+                    <tspan x="279" y="172">out clothes</tspan>
+                </text>
+                <text id="User-physically-touc">
+                    <tspan x="279" y="226">User physically </tspan>
+                    <tspan x="279" y="251">touches material </tspan>
+                    <tspan x="279" y="276">to understand </tspan>
+                    <tspan x="279" y="301">fit &amp; feel </tspan>
+                </text>
+                <text id="User-decides-what-to">
+                    <tspan x="279" y="355">User decides what </tspan>
+                    <tspan x="279" y="380">to browse based on </tspan>
+                    <tspan x="279" y="405">current wardrobe</tspan>
+                </text>
+                <text id="User-interacts-with">
+                    <tspan x="279" y="18">User interacts with </tspan>
+                    <tspan x="279" y="43">associates for </tspan>
+                    <tspan x="279" y="68">recommendations </tspan>
+                    <tspan x="279" y="93">&amp; sale information</tspan>
+                </text>
+                <text id="User-checks-price-ta">
+                    <tspan x="495" y="172">User checks price </tspan>
+                    <tspan x="495" y="197">tags </tspan>
+                </text>
+                <text id="User-looks-for-deals">
+                    <tspan x="495" y="251">User looks for deals </tspan>
+                    <tspan x="495" y="276">and promotions</tspan>
+                </text>
+                <text id="User-browses-through">
+                    <tspan x="495" y="18">User browses </tspan>
+                    <tspan x="495" y="43">through racks, tries </tspan>
+                    <tspan x="495" y="68">to find items in line </tspan>
+                    <tspan x="495" y="93">with personal style </tspan>
+                    <tspan x="495" y="118">or needs </tspan>
+                </text>
+                <text id="User-asks-for-opinio">
+                    <tspan x="724" y="172">User asks for </tspan>
+                    <tspan x="724" y="197">opinions from </tspan>
+                    <tspan x="724" y="222">family and friends </tspan>
+                    <tspan x="724" y="247">by sending them </tspan>
+                    <tspan x="724" y="272">pictures</tspan>
+                </text>
+                <text id="User-asks-for-opinio">
+                    <tspan x="724" y="18">User asks for </tspan>
+                    <tspan x="724" y="43">opinions from </tspan>
+                    <tspan x="724" y="68">friends and parents </tspan>
+                    <tspan x="724" y="93">by physically </tspan>
+                    <tspan x="724" y="118">showing them  </tspan>
+                </text>
+                <text id="Users’-friends-or-pa">
+                    <tspan x="932" y="97">Users’ friends or </tspan>
+                    <tspan x="932" y="122">parents enter  </tspan>
+                    <tspan x="932" y="147">fitting room to </tspan>
+                    <tspan x="932" y="172">provide advice </tspan>
+                </text>
+                <text id="User-assesses-style">
+                    <tspan x="932" y="18">User assesses style </tspan>
+                    <tspan x="932" y="43">and fit &amp; feel</tspan>
+                </text>
+                <text id="User-confirms-with-a">
+                    <tspan x="1356" y="122">User confirms with </tspan>
+                    <tspan x="1356" y="147">associates to ensure </tspan>
+                    <tspan x="1356" y="172">deals and </tspan>
+                    <tspan x="1356" y="197">promotions are fully </tspan>
+                    <tspan x="1356" y="222">utilized </tspan>
+                </text>
+                <text id="User-mentally-calcul">
+                    <tspan x="1356" y="276">User mentally </tspan>
+                    <tspan x="1356" y="301">calculates total </tspan>
+                    <tspan x="1356" y="326">price and evaluates </tspan>
+                    <tspan x="1356" y="351">whether it is within </tspan>
+                    <tspan x="1356" y="376">budget </tspan>
+                </text>
+                <text id="User-puts-back-items">
+                    <tspan x="1356" y="18">User puts back </tspan>
+                    <tspan x="1356" y="43">items that don’t </tspan>
+                    <tspan x="1356" y="68">match style</tspan>
+                </text>
+                <text id="User-checks-out-at-c">
+                    <tspan x="1564" y="18">User checks out at </tspan>
+                    <tspan x="1564" y="43">cash register</tspan>
+                </text>
+                <text id="User-evaluates-cloth">
+                    <tspan x="1129" y="122">User evaluates </tspan>
+                    <tspan x="1129" y="147">clothes based on </tspan>
+                    <tspan x="1129" y="172">how well they </tspan>
+                    <tspan x="1129" y="197">match with current </tspan>
+                    <tspan x="1129" y="222">wardrobe </tspan>
+                </text>
+                <text id="User-asks-associates">
+                    <tspan x="1129" y="18">User asks associates </tspan>
+                    <tspan x="1129" y="43">or friends to get a </tspan>
+                    <tspan x="1129" y="68">different size </tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(4574.500000, 0.000000)">
+                <text id="data-that-is-not-cur" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                    <tspan x="317.5" y="25">data that is not currently being collected, but could be </tspan>
+                    <tspan x="317.5" y="50">leveraged to improve the existing customer experience </tspan>
+                    <tspan x="317.5" y="75">at AEO, both online and in-store</tspan>
+                </text>
+                <text id="Future-vision-I-—-Mo" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" fill="#232323">
+                    <tspan x="318" y="125">Future vision I</tspan>
+                    <tspan x="434.676" y="125" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal"> — Mood Boards at Home with Friends </tspan>
+                </text>
+                <text id="Future-vision-IV-—-C" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" fill="#232323">
+                    <tspan x="318" y="319">Future vision IV</tspan>
+                    <tspan x="446.43" y="319" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal"> — Check-out via Augmented Reality </tspan>
+                    <tspan x="318" y="344" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal">&amp; Body Channel Communication</tspan>
+                </text>
+                <text id="Future-vision-II-—-I" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" fill="#232323">
+                    <tspan x="318" y="188">Future vision II</tspan>
+                    <tspan x="439.752" y="188" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal"> — In-Store Augmented Reality Navigation</tspan>
+                </text>
+                <text id="Future-vision-III-—" font-family="AvenirNext-DemiBold, Avenir Next" font-size="18" font-weight="500" fill="#232323">
+                    <tspan x="318" y="252">Future vision III </tspan>
+                    <tspan x="449.328" y="252" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal">— Collaborative Outfit Creation </tspan>
+                    <tspan x="318" y="277" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal">in Mixed Reality</tspan>
+                </text>
+                <text id="KEY" font-family="AvenirNext-Medium, Avenir Next" font-size="50" font-weight="400" letter-spacing="15" fill="#232323">
+                    <tspan x="0" y="50">KEY</tspan>
+                </text>
+                <text id="Red-Text" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                    <tspan x="206" y="25">Red Text </tspan>
+                </text>
+                <path d="M206,180 L286.128927,180 L285.30106,210 L206,210 L206,180 Z" id="Line-2" stroke="#C6DA7E" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+                <path d="M206,115 L286.128927,115 L285.30106,145 L206,145 L206,115 Z" id="Line-2" stroke="#4DCCDB" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+                <path d="M206,310 L286.128927,310 L285.30106,340 L206,340 L206,310 Z" id="Line-2" stroke="#FF8484" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+                <path d="M206,245 L286.065606,245 L285.238393,275 L206,275 L206,245 Z" id="Line-2" stroke="#FFC47A" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            </g>
+            <path d="M198.5,834 L2847.5,834" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <path d="M3284,871 L5393,877.09125" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <path d="M244.5,1687.25 L2847.5,1687.25" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <path d="M244.5,1999.25 L2847.5,1999.25" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <path d="M248.5,2149.25 L2847.5,2149.25" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <path d="M3296,2149.5 L5339,2149.5" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <path d="M3296,2040.25 L5339,2040.25" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <path d="M3296,1748.25 L5339,1748.25" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="1,17"></path>
+            <text id="TECHNOLOGY" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" letter-spacing="4.53999996" fill="#232323">
+                <tspan x="29.5" y="2006">TECHNOLOG</tspan>
+                <tspan x="198.46" y="2006">Y</tspan>
+            </text>
+            <text id="SOCIALIZATION" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" letter-spacing="4.53999996" fill="#232323">
+                <tspan x="0.5" y="2156">SOCIALIZATIO</tspan>
+                <tspan x="196.64" y="2156">N</tspan>
+            </text>
+            <text id="10" font-family="OpenSans-Italic, Open Sans" font-size="14" font-style="italic" font-weight="normal" fill="#FFFFFF">
+                <tspan x="2546.5" y="932.90875">10</tspan>
+            </text>
+            <text id="11" font-family="OpenSans-Italic, Open Sans" font-size="14" font-style="italic" font-weight="normal" fill="#FFFFFF">
+                <tspan x="2722.5" y="667.90875">11</tspan>
+            </text>
+            <path d="M197.5,629.16682 L197.5,1116" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square"></path>
+            <path d="M5384.25,581 L5386,1075.90875" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square"></path>
+            <text id="MHCI-x-American-Eagl" font-family="AvenirNext-Medium, Avenir Next" font-size="100" font-weight="400" letter-spacing="4" fill="#232323">
+                <tspan x="0.5" y="106">MHCI x American Eagle Outfitters</tspan>
+            </text>
+            <text id="SERVICE-BLUEPRINT" font-family="AvenirNext-Medium, Avenir Next" font-size="50" font-weight="400" letter-spacing="15" fill="#232323">
+                <tspan x="0.5" y="206">SERVICE BLUEPRINT</tspan>
+            </text>
+            <path d="M2847,350.5 L2847.5,2326" id="Line-3" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="4,21"></path>
+            <path d="M955,350.5 L955,2326" id="Line-3" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square" stroke-dasharray="4,21"></path>
+            <use id="Rectangle" stroke="#232323" mask="url(#mask-4)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-3"></use>
+            <text id="Screenshot-items-Sty" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="238.5" y="1724">Screenshot items</tspan>
+                <tspan x="238.5" y="1749"></tspan>
+                <tspan x="238.5" y="1774">Style </tspan>
+                <tspan x="238.5" y="1799">preferences</tspan>
+            </text>
+            <use id="Rectangle" stroke="#232323" mask="url(#mask-6)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-5"></use>
+            <use id="Rectangle" stroke="#232323" mask="url(#mask-8)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-7"></use>
+            <use id="Rectangle" stroke="#232323" mask="url(#mask-10)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-9"></use>
+            <use id="Rectangle" stroke="#232323" mask="url(#mask-12)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-11"></use>
+            <use id="Rectangle" stroke="#232323" mask="url(#mask-14)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-13"></use>
+            <use id="Rectangle" stroke="#232323" mask="url(#mask-16)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-15"></use>
+            <g id="Group-6" transform="translate(3058.500000, 662.000000)">
+                <text id="Low" font-family="AvenirNext-Bold, Avenir Next" font-size="30" font-weight="bold" fill="#5E5E5E">
+                    <tspan x="141.5" y="491">Low</tspan>
+                </text>
+                <text id="High" font-family="AvenirNext-Bold, Avenir Next" font-size="30" font-weight="bold" fill="#5E5E5E">
+                    <tspan x="136.5" y="30">High</tspan>
+                </text>
+                <text id="EMOTIONS" transform="translate(94.000000, 245.000000) rotate(-90.000000) translate(-94.000000, -245.000000) " font-family="AvenirNext-DemiBold, Avenir Next" font-size="40" font-weight="500" letter-spacing="10.47619" fill="#5E5E5E">
+                    <tspan x="-56" y="257.5">EMOTIONS</tspan>
+                </text>
+                <text id="DATA" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" letter-spacing="4.53999996" fill="#232323">
+                    <tspan x="136" y="1094">DAT</tspan>
+                    <tspan x="189.62" y="1094">A</tspan>
+                </text>
+                <text id="TECHNOLOGY" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" letter-spacing="4.53999996" fill="#232323">
+                    <tspan x="22" y="1385">TECHNOLOG</tspan>
+                    <tspan x="190.96" y="1385">Y</tspan>
+                </text>
+                <text id="SOCIALIZATION" font-family="AvenirNext-Bold, Avenir Next" font-size="20" font-weight="bold" letter-spacing="4.53999996" fill="#232323">
+                    <tspan x="-7" y="1495">SOCIALIZATIO</tspan>
+                    <tspan x="189.14" y="1495">N</tspan>
+                </text>
+            </g>
+            <path d="M3284.5,962.982595 L3284.5,1166.83318" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square"></path>
+            <path d="M5384.25,1169.90875 L3284.5,1166.83318" id="Line" stroke="#D7D8DC" stroke-width="6" stroke-linecap="square"></path>
+            <path d="M2528.92068,1262 L2722.5,1262 L2720.5,1410.68099 L2528.92068,1410.68099 L2528.92068,1262 Z" id="Line-2" stroke="#FF8484" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            <path d="M1718.5,1446 L1912.07932,1446 L1910.07932,1594.68099 L1718.5,1594.68099 L1718.5,1446 Z" id="Line-2" stroke="#FFC47A" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            <path d="M1479.5,1265 L1673.07932,1265 L1671.07932,1556 L1479.5,1556 L1479.5,1265 Z" id="Line-2" stroke="#C6DA7E" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            <path d="M428.5,1262 L640.5,1262 L638.309683,1687 L428.5,1687 L428.5,1262 Z" id="Line-2" stroke="#4DCCDB" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            <path d="M3768,1295 L3961.57932,1295 L3959.57932,1434.95065 L3959.57932,1448 L3768,1448 L3768,1295 Z" id="Line-2" stroke="#C6DA7E" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            <path d="M4832,1288 L5025.57932,1288 L5025.57932,1368.5 L4874.9897,1368.5 C4860.9141,1368.5 4848.08361,1376.56573 4841.98182,1389.25 L4838.04891,1397.42566 C4834.06458,1405.70819 4831.94075,1414.7622 4831.82642,1423.95253 L4830.2966,1546.9216 L4635.01389,1546.9216 L4635.01389,1394.41231 L4789.46254,1394.41231 C4802.64584,1394.41231 4814.70357,1386.98212 4820.63031,1375.20616 L4823.9448,1368.62052 C4828.12739,1360.31005 4830.41743,1351.17637 4830.65042,1341.87563 L4832,1288 Z" id="Line-2" stroke="#FF8484" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            <path d="M3987.98611,1300 L4193.5,1300 L4193.5,1368.5 L4394,1368.5 L4394,1497.46503 L4193.5,1497.46503 L4193.5,1614 L3987.98611,1614 L3987.98611,1300 Z" id="Line-2" stroke="#FFC47A" stroke-width="6" stroke-linecap="square" stroke-dasharray="13,18"></path>
+            <text id="Collaborative-online" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#B94A54">
+                <tspan x="728.5" y="1724">Collaborative </tspan>
+                <tspan x="728.5" y="1749">online shopping </tspan>
+                <tspan x="728.5" y="1774">behaviors</tspan>
+            </text>
+            <text id="Shares-images-with-f" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#292929">
+                <tspan x="457.5" y="2186">Shares images </tspan>
+                <tspan x="457.5" y="2211">with family/friends </tspan>
+                <tspan x="457.5" y="2236">via messaging or </tspan>
+                <tspan x="457.5" y="2261">social media</tspan>
+            </text>
+            <text id="Coordinates-shopping" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#292929">
+                <tspan x="718.5" y="2186">Coordinates </tspan>
+                <tspan x="718.5" y="2211">shopping </tspan>
+                <tspan x="718.5" y="2236">strategy with </tspan>
+                <tspan x="718.5" y="2261">friends (online or </tspan>
+                <tspan x="718.5" y="2286">in-store)</tspan>
+            </text>
+            <text id="Gathers-opinions-fro" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#292929">
+                <tspan x="1494.5" y="2186">Gathers opinions </tspan>
+                <tspan x="1494.5" y="2211">from family and </tspan>
+                <tspan x="1494.5" y="2236">friends</tspan>
+            </text>
+            <text id="Gets-forwarded-deals" font-family="AvenirNext-Regular, Avenir Next" font-size="18" font-weight="normal" fill="#232323">
+                <tspan x="3788" y="2259">Gets forwarded </tspan>
+                <tspan x="3788" y="2284">deals/promotions</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
